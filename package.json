@@ -1,12 +1,16 @@
 {
-  "name": "mark-my-attendance",
+  "name": "mark_my_attendance_v1---copyexp",
   "version": "1.0.0",
-  "description": "Build system for my flutter app",
-  "private": true,
-  "scripts": {
-    "start": "flutter run",
-    "build": "flutter build"
+  "description": "A new Flutter project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
   },
-  "author": "Gauransh Gupta <gauranshgupta99@gmail.com>",
-  "license": "MSIT"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
