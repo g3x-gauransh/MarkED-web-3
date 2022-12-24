@@ -1,3 +1,7 @@
 {
-  "name": "MarkED-web-3"
+  "name": "my-package",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "jest"
+  }
 }
