@@ -1,7 +1,12 @@
 {
-  "name": "my-package",
+  "name": "mark-my-attendance",
+  "version": "1.0.0",
+  "description": "Build system for my flutter app",
+  "private": true,
   "scripts": {
-    "build": "babel src -d lib",
-    "test": "jest"
-  }
+    "start": "flutter run",
+    "build": "flutter build"
+  },
+  "author": "Gauransh Gupta <gauranshgupta99@gmail.com>",
+  "license": "MSIT"
 }
